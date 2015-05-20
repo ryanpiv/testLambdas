@@ -1,0 +1,6 @@
+c:\users\rpiveteau\documents\visual studio 2013\Projects\testLambdas\testLambdas\bin\Debug\testLambdas.exe.config
+c:\users\rpiveteau\documents\visual studio 2013\Projects\testLambdas\testLambdas\bin\Debug\testLambdas.exe
+c:\users\rpiveteau\documents\visual studio 2013\Projects\testLambdas\testLambdas\bin\Debug\testLambdas.pdb
+c:\users\rpiveteau\documents\visual studio 2013\Projects\testLambdas\testLambdas\obj\Debug\testLambdas.csprojResolveAssemblyReference.cache
+c:\users\rpiveteau\documents\visual studio 2013\Projects\testLambdas\testLambdas\obj\Debug\testLambdas.exe
+c:\users\rpiveteau\documents\visual studio 2013\Projects\testLambdas\testLambdas\obj\Debug\testLambdas.pdb
